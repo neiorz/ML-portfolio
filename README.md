@@ -36,5 +36,5 @@ The AI and vision subsystem of an autonomous robot, bridging real-time perceptio
 ---
 
 ## 📫 Contact
-- LinkedIn: `www.linkedin.com/in/nourhan-elshiekh-8a9516269`
-- Email: `norhanelshiekh71@gmail.com`
+- LinkedIn: [Nourhan ElShiekh](https://www.linkedin.com/in/nourhan-elshiekh-8a9516269)
+- Email: nourhanelsiekh71@gmail.com
